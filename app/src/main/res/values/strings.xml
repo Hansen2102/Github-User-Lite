@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="settings">Setting</string>
+    <string name="mode">Mode</string>
+    <string name="searchbar_hint">Search User</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="value">10</string>
+
+    <string name="fragment_following">Hello fragment following</string>
+    <string name="fragment_follower">Hello fragment follower</string>
+
+    <string name="content_tab_text">This is fragment %1$d</string>
+
+    <string name="added">Favorite berhasil ditambahkan</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="change_mode">Change Mode</string>
+    <string name="favorite">Favorite</string>
+</resources>
